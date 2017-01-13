@@ -1,4 +1,4 @@
-package hw4;
+package hashClass;
 
 public class Hash {
     public int key;
