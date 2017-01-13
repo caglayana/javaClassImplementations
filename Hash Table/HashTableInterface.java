@@ -1,4 +1,4 @@
-package hw4;
+package hashClass;
 
 public interface HW4_Interface {
  long FindHash(String mystring);                // generate an integer value related to the input word.
